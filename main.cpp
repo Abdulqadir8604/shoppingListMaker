@@ -34,6 +34,8 @@ int main() {
     check();
 
     for (int i = 0; i < n; ++i) {
+        cout<<endl;
+        cout << endl;
         cout<<items[i]<<endl;
     }
 
