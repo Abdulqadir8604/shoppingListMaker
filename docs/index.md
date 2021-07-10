@@ -1,4 +1,3 @@
-##Welcome
 ```c++
 #include <iostream>
 #include <fstream>
